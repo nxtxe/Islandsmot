@@ -1,3 +1,5 @@
+# Artjom Pushkar // Vor 2025
+
 import random
 import time
 
